@@ -6,16 +6,16 @@
     <a href="https://letterboxd.com/curtissearle/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/letterboxd-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-Tech-obsessed product leader currently working at [The Adaptavist Group](https://www.theadaptavistgroup.com/) 🚀 building and scaling SaaS platforms that empower developers and end-users alike. I drive strategy and thrive on delivering automation-first solutions that bridge technical possibility with real business impact—from startup chaos to enterprise scale.
+Tech-obsessed product leader currently working at <a href="https://www.theadaptavistgroup.com/" target="_blank">The Adaptavist Group</a> 🚀 building and scaling SaaS platforms that empower developers and end-users alike. I drive strategy and thrive on delivering automation-first solutions that bridge technical possibility with real business impact—from startup chaos to enterprise scale.
 
 ### My work
 
 Here are some previous public-facing projects I've helped contribute to and/or lead
 
-- [Venue.sh](https://www.venue.sh/) — Built from scratch a developer portal helping transform scattered tools into a cohesive developer experience. Facilitating curated golden paths, scorecards and an AI assistant to ship faster with greater confidence.
-- [Scriptrunner for Bitbucket](https://marketplace.atlassian.com/apps/1213250/scriptrunner-for-bitbucket) — All-in-one admin app: automate DevOps workflows, customise merge checks and hooks, integrate with other tools
-- [First live 8K sports broadcast](https://www.broadbandtvnews.com/2022/04/06/bt-delivers-first-live-8k-sports-broadcast-into-the-home/) — Helped create a software-based encoder based on [FFMPEG](https://www.ffmpeg.org/) running on a custom build machine with Blackmagic Decklinks
-- [Build from scratch a MAM](https://www.skygroup.sky/article/new-sky-tv-packages-combine-sky-sports-and-bt-sport-in-one-single-subscription) — Working with a small engineering team at BT to build a Media Asset Manager (MAM), taking all new & existing BT Sport VOD content, transcoding it to Sky's required spec and transferring the files to their systems
+- <a href="https://www.venue.sh/" target="_blank">Venue.sh</a> — Built from scratch a developer portal helping transform scattered tools into a cohesive developer experience. Facilitating curated golden paths, scorecards and an AI assistant to ship faster with greater confidence.
+- <a href="https://marketplace.atlassian.com/apps/1213250/scriptrunner-for-bitbucket" target="_blank">Scriptrunner for Bitbucket</a> — All-in-one admin app: automate DevOps workflows, customise merge checks and hooks, integrate with other tools
+- <a href="https://www.broadbandtvnews.com/2022/04/06/bt-delivers-first-live-8k-sports-broadcast-into-the-home/" target="_blank">First live 8K sports broadcast</a> — Helped create a software-based encoder based on <a href="https://www.ffmpeg.org/" target="_blank">FFMPEG</a> running on a custom build machine with Blackmagic Decklinks
+- <a href="https://www.skygroup.sky/article/new-sky-tv-packages-combine-sky-sports-and-bt-sport-in-one-single-subscription" target="_blank">Build from scratch a MAM</a> — Working with a small engineering team at BT to build a Media Asset Manager (MAM), taking all new & existing BT Sport VOD content, transcoding it to Sky's required spec and transferring the files to their systems
 
 <table>
   <thead align="center">
