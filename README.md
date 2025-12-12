@@ -25,7 +25,7 @@ Here are some previous public-facing projects I've helped contribute to and/or l
   <tbody>
     <tr>
       <td><a href="https://github.com/curtissearle/run_plan"><b>🏃‍♂️ Run Plan</b></a> — A simple react site to generate and visualise running training plans</td>
-      <td><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+      <td><img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/curtissearle/run_plan?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/curtissearle/run_plan?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/curtissearle/run_plan?style=flat-square&labelColor=343b41"/></td>
