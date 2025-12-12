@@ -2,7 +2,6 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/curtissearle/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://chshersh.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
     <a href="https://letterboxd.com/curtissearle/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/letterboxd-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
