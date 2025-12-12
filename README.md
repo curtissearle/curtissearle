@@ -1,10 +1,5 @@
 ## Welcome, I'm Curtis (he/him) 👋
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/curtissearle/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://letterboxd.com/curtissearle/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/letterboxd-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
 Tech-obsessed product leader currently working at <a href="https://www.theadaptavistgroup.com/" target="_blank">The Adaptavist Group</a> 🚀 building and scaling SaaS platforms that empower developers and end-users alike. I drive strategy and thrive on delivering automation-first solutions that bridge technical possibility with real business impact—from startup chaos to enterprise scale.
 
 ### My work
