@@ -11,7 +11,7 @@ Here are some previous public-facing projects I've helped contribute to and/or l
 - <a href="https://www.broadbandtvnews.com/2022/04/06/bt-delivers-first-live-8k-sports-broadcast-into-the-home/" target="_blank">First live 8K sports broadcast</a> — Helped create a software-based encoder based on <a href="https://www.ffmpeg.org/" target="_blank">FFMPEG</a> running on a custom build machine with Blackmagic Decklinks
 - <a href="https://www.skygroup.sky/article/new-sky-tv-packages-combine-sky-sports-and-bt-sport-in-one-single-subscription" target="_blank">Build from scratch a MAM</a> — Working with a small engineering team at BT to build a Media Asset Manager (MAM), taking all new & existing BT Sport VOD content, transcoding it to Sky's required spec and transferring the files to their systems
 
-<!-- <table>
+<table>
   <thead align="center">
     <tr border: none;>
       <td><b>📦 Projects</b></td>
@@ -24,15 +24,15 @@ Here are some previous public-facing projects I've helped contribute to and/or l
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/curtissearle/run_plan"><b>🏃‍♂️ Run Plan</b></a> — A simple react site to generate and visualise running training plans</td>
+      <td><a href="https://github.com/curtissearle/run-plan"><b>🏃‍♂️ Run Plan</b></a> — A simple react site to generate and visualise running training plans</td>
       <td><img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/curtissearle/run_plan?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/curtissearle/run_plan?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/curtissearle/run_plan?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/curtissearle/run_plan?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/curtissearle/run-plan?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/curtissearle/run-plan?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/curtissearle/run-plan?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/curtissearle/run-plan?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
-</table> -->
+</table>
 
 ### My toolbox
 
