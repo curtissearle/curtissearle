@@ -24,6 +24,14 @@ Here are some previous public-facing projects I've helped contribute to and/or l
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/curtissearle/sdlc-visualiser"><b>🏃‍♂️ SDLC Visualiser</b></a> — A lightweight web app for quickly creating, visualising, and sharing SDLC maps</td>
+      <td><img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/curtissearle/sdlc-visualiser?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/curtissearle/sdlc-visualiser?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/curtissearle/sdlc-visualiser?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/curtissearle/sdlc-visualiser?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/curtissearle/run-plan"><b>🏃‍♂️ Run Plan</b></a> — A simple react site to generate and visualise running training plans</td>
       <td><img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/curtissearle/run-plan?style=flat-square&labelColor=343b41"/></td>
