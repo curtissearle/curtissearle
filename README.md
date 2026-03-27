@@ -1,6 +1,6 @@
 ## Welcome, I'm Curtis (he/him) 👋
 
-Tech-obsessed product leader currently working at <a href="https://www.theadaptavistgroup.com/" target="_blank">The Adaptavist Group</a> 🚀 building and scaling SaaS platforms that empower developers and end-users alike. I drive strategy and thrive on delivering automation-first solutions that bridge technical possibility with real business impact—from startup chaos to enterprise scale.
+Techy product leader currently working at <a href="https://www.grantify.io/" target="_blank">Grantify</a> 🚀 building and scaling SaaS platforms that empower developers and end-users alike.
 
 ### My work
 
